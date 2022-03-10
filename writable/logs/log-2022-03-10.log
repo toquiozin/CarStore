@@ -1,0 +1,70 @@
+CRITICAL - 2022-03-10 05:34:15 --> Invalid file: main.css
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('main.css')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('main.css', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('main.css')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
+CRITICAL - 2022-03-10 05:34:23 --> Invalid file: main.css
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('main.css')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('main.css', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('main.css')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
+CRITICAL - 2022-03-10 05:34:23 --> Invalid file: main.css
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('main.css')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('main.css', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('main.css')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
+CRITICAL - 2022-03-10 05:34:57 --> Invalid file: public.php
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public.php')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('public', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('public')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('public', 'css', 'main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
+CRITICAL - 2022-03-10 05:34:57 --> Invalid file: public.php
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public.php')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('public', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('public')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('public', 'css', 'main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
+CRITICAL - 2022-03-10 05:35:12 --> Invalid file: public.php
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public.php')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('public', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('public')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('public', 'css', 'main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
+CRITICAL - 2022-03-10 05:35:12 --> Invalid file: public.php
+#0 C:\wamp64\www\atividadepw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public.php')
+#1 C:\wamp64\www\atividadepw\system\Common.php(1089): CodeIgniter\View\View->render('public', Array, true)
+#2 C:\wamp64\www\atividadepw\app\Controllers\Home.php(16): view('public')
+#3 C:\wamp64\www\atividadepw\system\CodeIgniter.php(825): App\Controllers\Home->page('public', 'css', 'main.css')
+#4 C:\wamp64\www\atividadepw\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\atividadepw\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\atividadepw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\atividadepw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\a...')
+#8 {main}
