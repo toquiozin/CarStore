@@ -1,7 +1,7 @@
  <!-- inicio do footer -->
  <div class="row">
             <div class="col">
-                <p>Todos os direitos reservados</p>
+                <p>Todos os direitos reservados ©</p>
             </div>
         </div>
     </div>
