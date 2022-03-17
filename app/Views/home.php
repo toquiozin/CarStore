@@ -32,13 +32,13 @@
             </div>
         </div>
         <div class="row">
-            <div class="col">
-                <h3>Texto 1</h3>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IWXyyaj9BFD20ocBnktNCWgCp1hiEZgzog&usqp=CAU" alt="">
+            <div class="col" id="cardmainpage">
+                <h3>Carro Initial D</h3>
+                <img src="<?php base_url()?>/img/initiald.jpg" id="carrinhodemao" alt="">
             </div>
-            <div class="col">
+            <div class="col" id="cardmainpage">
                 <h3>Texto 1</h3>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IWXyyaj9BFD20ocBnktNCWgCp1hiEZgzog&usqp=CAU" alt="">
+                <img src="<?php base_url()?>/img/veneno.jpg"  id="carrinhodemao" alt="">
             </div>
         </div>
         <!-- fim do corpo da pagina-->
